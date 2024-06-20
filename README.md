@@ -15,7 +15,7 @@ Website project where I designed a mock website meant to illustrate what a commu
 - <b>Replit, a Development and Deployment Platform</b> (21H2)
 
 
-<h2>Program walk-through:</h2>
+<h2>Program/Site walk-through:</h2>
 
 <p align="center">
 index.html page: HTML code that creates the homepage for the site. Images below split into top, and bottom of webpage.  <br/>
@@ -23,11 +23,14 @@ index.html page: HTML code that creates the homepage for the site. Images below 
  <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/homePageExampleBottom.PNG" height="80%" width="80%" alt="Example of Web Home Page"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+build.html page: HTML code that creates the "Builds" page, where players can find and share their in game creations with full details on what they designed. <br/>
+<img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageTop.PNG" height="80%" width="80%" alt="Example of Web Builds Page Top"/>
+<img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageBuilds.PNG" height="80%" width="80%" alt="Example of Web Builds Page Builds section"/>
+<img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageBottom.PNG" height="80%" width="80%" alt="Example of Web Builds Page Bottom"/>
+
 <br />
 <br />
-Enter the number of passes: <br/>
+login.html; HTML code that creates the mock login page for the site, where user's could create or login into their personal account. Ilustrates the use of forms. <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
