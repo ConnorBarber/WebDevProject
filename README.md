@@ -17,20 +17,37 @@ Website project where I designed a mock website meant to illustrate what a commu
 
 <h2>Program/Site walk-through:</h2>
 
-<p align="center">
-index.html page: HTML code that creates the homepage for the site. Images below split into top, and bottom of webpage.  <br/>
+
+<b>index.html page:</b> <br />
+Description: HTML code that creates the homepage for the site. Images below split into top, and bottom of webpage.  <br/>
+Features: <br />
+     1. Displays images, such as company logo and aesthetic background <br />
+     2. Provides navigation and links to other site pages <br />
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/homePageExample.PNG" height="80%" width="80%" alt="Example of Web Home Page"/>
  <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/homePageExampleBottom.PNG" height="80%" width="80%" alt="Example of Web Home Page"/>
 <br />
 <br />
-build.html page: HTML code that creates the "Builds" page, where players can find and share their in game creations with full details on what they designed. <br/>
+<b>build.html page: </b> <br />
+Description: HTML code that creates the "Builds" page, where players can find and share their in game creations with full details on what they designed.  <br/>
+Features: <br />
+     1. Displays images to illustrate player made submissions and background aesthetics <br />
+     2. Provides navigation and links to other site pages <br/>
+     3. Uses SectionClasses to organize player submission information, such as build parts <br/>
+     4. Provides link with Video Preview to youtube video for "Content Creator of the Week" highlight <br/>
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageTop.PNG" height="80%" width="80%" alt="Example of Web Builds Page Top"/>
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageBuilds.PNG" height="80%" width="80%" alt="Example of Web Builds Page Builds section"/>
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/buildPageBottom.PNG" height="80%" width="80%" alt="Example of Web Builds Page Bottom"/>
 
 <br />
 <br />
-login.html: HTML code that creates the mock login page for the site, where user's could create or login into their personal account. Ilustrates the use of forms. <br/>
+<b>login.html: </b> <br/>
+Description: HTML code that creates the mock login page for the site, where user's could create or login into their personal account. Ilustrates the use of forms. <br/>
+Features: <br />
+     1. Displays images, such as company logo and aesthetic background <br />
+     2. Provides navigation and links to other site pages <br /> 
+     3. Uses form to take user input, as a mock user account creation service <br/>
+     4. Uses Submit button to finalize form(mock button for now, activates action to clear form) <br/>
+     5. Uses Functional Reset button to erase all current form information and lets the user start entry over <br/>
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/loginPage.PNG" height="80%" width="80%" alt="Example of Web Login Page"/>
 <br />
 <br />
