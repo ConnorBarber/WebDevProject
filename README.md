@@ -50,7 +50,6 @@ Features: <br />
      5. Uses Functional Reset button to erase all current form information and lets the user start entry over <br/>
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/loginPage.PNG" height="80%" width="80%" alt="Example of Web Login Page"/>
 <br />
-<br />
 <b>style.css <br />
 Description: Styling sheet code used to organize and make the webpages more pleasing to view. Makes use of flebox to keep . <br/>
 Features: <br />
