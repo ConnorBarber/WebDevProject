@@ -51,6 +51,16 @@ Features: <br />
 <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/loginPage.PNG" height="80%" width="80%" alt="Example of Web Login Page"/>
 <br />
 <br />
+<b>style.css <br />
+Description: Styling sheet code used to organize and make the webpages more pleasing to view. Makes use of flebox to keep . <br/>
+Features: <br />
+     1. Colors background and font <br />
+     2. Styles font, font families, and backup fonts incase device cannot display the default one <br />
+     3. Styles font, font families, and backup fonts incase device cannot display the default one <br />
+     4. Structures images to be alligned and alter size depending on screen display <br />
+     5. Creates Hover over and Used links features to alter link colors when either visited or hovered over. <br/>     
+<br />
+<br />
 
 <!--
  ```diff
