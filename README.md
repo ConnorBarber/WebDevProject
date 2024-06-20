@@ -12,7 +12,7 @@ Website project where I designed a mock website meant to illustrate what a commu
 
 <h2>Environments Used </h2>
 
-- <b>Replit, a Development and Deployment Platform</b> (21H2)
+- <b>Replit, a Development and Deployment Platform</b> 
 
 
 <h2>Program/Site walk-through:</h2>
