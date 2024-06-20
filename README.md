@@ -18,8 +18,9 @@ Website project where I designed a mock website meant to illustrate what a commu
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Index: <br/>
-<img src="" height="80%" width="80%" alt="Example of Web Home Page"/>
+index.html page: HTML code that creates the homepage for the site. Images below split into top, and bottom of webpage.  <br/>
+<img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/homePageExample.PNG" height="80%" width="80%" alt="Example of Web Home Page"/>
+ <img src="https://github.com/ConnorBarber/WebDevProject/blob/main/readMeResources/homePageExample.PNG" height="80%" width="80%" alt="Example of Web Home Page"/>
 <br />
 <br />
 Select the disk:  <br/>
